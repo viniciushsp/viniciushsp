@@ -1,7 +1,6 @@
 ## Hey there! My Name is Vinicius Porto, I am From Brazil and I have 23 years old. 👋
 
-- 💻 I'm currently work on Data Enginner and DBA Admnistrator.
-- 🎓 I'm currently  learning Data Science, Data Analysis, Low code with WeWeb, Python, Power BI, SQL, and others...
+- 💻 I'm currently work on Data Enginnering.
 - ✉️ How to reach me: vinicius.hsporto@hotmail.com / viniciushenriqueporto@gmail.com
 
 ---
