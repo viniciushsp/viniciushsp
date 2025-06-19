@@ -1,8 +1,7 @@
 ## Hey there! My Name is Vinicius Porto, I am From Brazil and I have 23 years old. 👋
 
 - 💻 I'm currently work on Data Enginnering.
-- ✉️ How to reach me: vinicius.hsporto@hotmail.com / viniciushenriqueporto@gmail.com
-
+- ✉️ How to reach me: vinicius.hsporto@hotmail.com
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushsp)](https://github.com/viniciushsp/github-readme-stats)
 
