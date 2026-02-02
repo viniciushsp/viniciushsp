@@ -3,7 +3,7 @@
 - 💻 I'm currently work on Tech Lead.
 - ✉️ How to reach me: vinicius.hsporto@hotmail.com
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushsp)](https://github.com/viniciushsp/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciushsp)](https://git.io/streak-stats)
 
 ---
 
