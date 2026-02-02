@@ -3,7 +3,8 @@
 - 💻 I'm currently work on Tech Lead.
 - ✉️ How to reach me: vinicius.hsporto@hotmail.com
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=viniciushsp)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=viniciushsp)](https://git.io/streak-stats)
 
 ---
 
